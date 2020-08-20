@@ -1,0 +1,79 @@
+{
+    "loopStatus": "1",
+    "returnList": [
+        {
+            "beginTime": 1577203200000,
+            "endTime": 1577462400000,
+            "id": 3732,
+            "picUrl": "https://image.suning.cn/uimg/sfp/ad/157709183109806601.png",
+            "position": 1,
+            "seoname": "https://jinrong.suning.com/scms/wapgjd_12xk.html",
+            "status": 1,
+            "targetUrl": "https://jinrong.suning.com/scms/wapgjd_12xk.html",
+            "title": "任性贷",
+            "type": "01"
+        },
+        {
+            "beginTime": 1577203200000,
+            "endTime": 1577462400000,
+            "id": 3647,
+            "picUrl": "https://image.suning.cn/uimg/sfp/ad/157709196302040214.png",
+            "position": 2,
+            "seoname": "https://jinrong.suning.com/scms/wapzfchaoshi1111.html",
+            "status": 1,
+            "targetUrl": "https://jinrong.suning.com/scms/wapzfchaoshi1111.html",
+            "title": "支付",
+            "type": "01"
+        },
+        {
+            "beginTime": 1577203200000,
+            "endTime": 1577462400000,
+            "id": 3734,
+            "picUrl": "https://image.suning.cn/uimg/sfp/ad/157709248010354847.png",
+            "position": 3,
+            "seoname": "https://jinrong.suning.com/scms/1121lc.html",
+            "status": 1,
+            "targetUrl": "https://jinrong.suning.com/scms/1121lc.html",
+            "title": "理财",
+            "type": "01"
+        },
+        {
+            "beginTime": 1577203200000,
+            "endTime": 1577462400000,
+            "id": 3733,
+            "picUrl": "https://image.suning.cn/uimg/sfp/ad/157709252391316446.png",
+            "position": 4,
+            "seoname": "https://jinrong.suning.com/scms/wapsnk_zpkq4.html",
+            "status": 1,
+            "targetUrl": "https://jinrong.suning.com/scms/wapsnk_zpkq4.html",
+            "title": "苏宁卡",
+            "type": "01"
+        },
+        {
+            "beginTime": 1577203200000,
+            "endTime": 1577462400000,
+            "id": 3729,
+            "picUrl": "https://image.suning.cn/uimg/sfp/ad/157718076618265157.png",
+            "position": 5,
+            "seoname": "https://jinrong.suning.com/scms/wapbx_yb11y3.html",
+            "status": 1,
+            "targetUrl": "https://jinrong.suning.com/scms/wapbx_yb11y3.html",
+            "title": "保险",
+            "type": "01"
+        },
+        {
+            "beginTime": 1577203200000,
+            "endTime": 1577462400000,
+            "id": 3709,
+            "picUrl": "https://image.suning.cn/uimg/sfp/ad/157709359835506457.png",
+            "position": 6,
+            "seoname": "https://jinrong.suning.com/scms/waplc_jjhlc10.html",
+            "status": 1,
+            "targetUrl": "https://jinrong.suning.com/scms/waplc_jjhlc10.html",
+            "title": "基金",
+            "type": "01"
+        }
+    ],
+    "responseCode": "0000",
+    "responseMsg": "成功"
+}

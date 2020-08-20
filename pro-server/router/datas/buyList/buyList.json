@@ -1,0 +1,2277 @@
+{
+
+  "buyList":{
+
+    "skus": [
+        {
+            "id":0,
+            "contentType": "2",
+            "handwork": "rec_19-43_14_A",
+            "contentId": "1844280705",
+            "imageUrl": "http://image3.suning.cn/uimg/MFS/show/155347765135023367.jpg_0-78-756-340a|710w_320h_2e",
+            "desc": "到某个时间很多人嘴巴都会干到起皮。这时候忍不住舔一舔，嘴巴简直要裂开，当再用手去撕，分分钟嘴破了。想要守护你的娇唇，润唇膏要在合适的时间涂抹，能让你的唇部焕发年轻的活力，大家要好好的保护自己的嘴唇哦",
+            "faceUrl": "http://image.suning.cn/uimg/cmf/cust_headpic/0000000000_01_120x120.jpg",
+            "title": "守护娇唇，润唇膏让你焕发活力",
+            "nick": "132******99",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 10,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0070074147",
+                        "smallImageUrl": "http://image.suning.cn/uimg/b2c/newcatentries/0070074147-000000000101437360_3.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000101437360",
+                        "productType": 0,
+                        "price": "￥39.90",
+                        "refPrice": "",
+                        "text": "曼秀雷敦(MENTHOLATUM)水彩润唇膏03(甜心粉红)3g (新老包装随机发货)"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070211365",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/M9s-X_oApx93_ptFpmNhYQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010638910919",
+                        "productType": 1,
+                        "price": "￥29.90",
+                        "refPrice": "￥8",
+                        "text": "ESPIEROUGEES日本润唇膏女无色保湿唇膏丰唇维他命e+芦荟深层补水滋润防干裂_5"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070211365",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/iQhQbMnmEC_3PQ6_5hNRzg==.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010597640188",
+                        "productType": 1,
+                        "price": "￥19.90",
+                        "refPrice": "￥3",
+                        "text": "YNM韩国变色唇膏彩虹蜂蜜渐变口红防水干裂持久保湿润唇膏女一支装_2"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/eiz9DByB_PfmxzlLGmJKxA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000101437359",
+                        "productType": 0,
+                        "price": "￥9.90",
+                        "refPrice": "",
+                        "text": "曼秀雷敦(MENTHOLATUM)水彩润唇膏02 活力橘红（新老包装随机发）"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070163198",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/w4kyDBoPowaeUUUoVR-X_g.png_400w_400h_4e_340w_340h_1e",
+                        "productCode": "000000010577318183",
+                        "productType": 0,
+                        "price": "￥99.90",
+                        "refPrice": "￥18",
+                        "text": "番茄派润唇膏保湿滋润补水淡化唇纹无色唇膜贴嘴唇部护理女男士_6"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070188967",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/LkWL-I7dQo82MJn-nrzk7Q.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010727037550",
+                        "productType": 0,
+                        "price": "￥59.90",
+                        "refPrice": "￥23",
+                        "text": "SYRINX希芸润唇膏女士保湿滋润补水防干裂男护唇膏学生款无色口红打底"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/44g1vfqFJiWRirNTs1JC8Q.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000102187666",
+                        "productType": 0,
+                        "price": "￥69.90",
+                        "refPrice": "￥23",
+                        "text": "曼秀雷敦 什果冰润唇膏-柠檬3.5g"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/ewvyVBWxOHJLSqfYn9B7dw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010587461196",
+                        "productType": 0,
+                        "price": "￥39.90",
+                        "refPrice": "￥9.9",
+                        "text": "曼秀雷敦(MENTHOLATUM)香润唇膏-水蜜桃3.5g"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/Bl4ZCEvck6u6ZPt-KJfKyA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010587461197",
+                        "productType": 0,
+                        "price": "￥88.88",
+                        "refPrice": "￥8.8",
+                        "text": "曼秀雷敦(MENTHOLATUM)果香润唇膏-青柠3.5g"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/b2c/newcatentries/0070074147-000000000101437360_3.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "39.90",
+                    "jiage":"88",
+                    "jianjia":"12",
+                    "supplierCode": "0070074147",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "曼秀雷敦MENTHOLATUM 水彩润唇膏3g*03魔幻粉红 保湿补水 显色女士 粉色系",
+                    "shopCode": "0070074147",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/in_aGM0vCz_atAjZHy72Gg.jpg",
+                    "sugGoodsCode": "000000000101437360",
+                    "promotionType": "",
+                    "vendorId": "0070074147",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/LkWL-I7dQo82MJn-nrzk7Q.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "19.90",
+                    "supplierCode": "0070188967",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "36.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "希芸商贸SYRINX希芸润唇膏2.2G男士女士保湿滋润补水防干裂男护唇膏学生款无色口红打底饱满粉嫩柔软润泽",
+                    "shopCode": "0070188967",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/LkWL-I7dQo82MJn-nrzk7Q.jpg",
+                    "sugGoodsCode": "000000010727037550",
+                    "promotionType": "",
+                    "vendorId": "0070188967",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/iQhQbMnmEC_3PQ6_5hNRzg==.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "49.00",
+                    "supplierCode": "0070211365",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "6",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "YNM韩国变色唇膏彩虹蜂蜜渐变口红防水干裂持久保湿润唇膏女 一支装",
+                    "shopCode": "0070211365",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/iQhQbMnmEC_3PQ6_5hNRzg==.jpg",
+                    "sugGoodsCode": "000000010597640188",
+                    "promotionType": "",
+                    "vendorId": "0070211365",
+                    "promotionId": ""
+                }
+            ],
+            "author": "110104464382"
+        },
+         {
+            "id":1,
+            "contentType": "2",
+            "handwork": "rec_19-43_14_A",
+            "contentId": "3112795810",
+            "imageUrl": "http://image2.suning.cn/uimg/MFS/show/156903389932701629.jpg_0-0-710-317a",
+            "desc": "可乐因为口感甜、有气泡，而且多喝容易长胖，有“快乐肥宅水”之称。无论是夜晚和好友去路边摊吃烧烤，还是周末同事约着吃火锅，闲暇的追剧时光…很都时候，都少不了可乐的身影。而且可乐还能做菜，最有名的当然就是可乐鸡翅啦~",
+            "faceUrl": "http://image5.suning.cn/uimg/MFS/show/153907250814850266.jpg_0-0-658-658a|400w_400h_2e",
+            "title": "能叫快乐水的饮料，非可乐莫属",
+            "nick": "生活大爆炸",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 10,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/D0348xG5Qm_XCUVqbMOTAA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000155267597",
+                        "productType": 0,
+                        "price": "￥9.90",
+                        "refPrice": "￥3",
+                        "text": "可口可乐汽水 330ml*24罐 整箱装"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/eFxxwMNqAxIALq6R8gd9Tg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000104008297",
+                        "productType": 0,
+                        "price": "￥5.90",
+                        "refPrice": "",
+                        "text": "百事可乐 碳酸饮料 可乐型汽水 330ml*24听 整箱（新老包装、纸箱/塑包随机发货）"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070228434",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/2CHtZ1CXg6rlU-MhW3mMlA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011187700526",
+                        "productType": 0,
+                        "price": "￥6.90",
+                        "refPrice": "￥1.1",
+                        "text": "崂山可乐330mlx12小瓶 中草药可乐青岛特产童年的甜蜜回味"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070177421",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/dRmb9TD6-B4FZvQxfaIUmg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011034623912",
+                        "productType": 0,
+                        "text": "可口可乐零度无糖可乐330ml*6罐细长罐摩登罐多省_6"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/gmSO1dJv58ci8uxdbw3rFg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000104008307",
+                        "productType": 0,
+                        "price": "￥2.90",
+                        "refPrice": "",
+                        "text": "百事可乐 可乐型汽水500ml*24瓶（箱装 / 塑包）碳酸饮料"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/ZPKw_35xuMTaJpJ9ijovHg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010525211390",
+                        "productType": 0,
+                        "price": "￥1.90",
+                        "refPrice": "",
+                        "text": "百事可乐 可乐型汽水（细长罐）330ml*24罐"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/ANWynaCy9rK39H_MvjUf8A.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000642257628",
+                        "productType": 0,
+                        "price": "￥9.90",
+                        "refPrice": "￥3",
+                        "text": "可口可乐 零度可乐汽水300ml*12 整箱装"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/M-Hp8vPQDL1fk07JOQXZxw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010559080076",
+                        "productType": 0,
+                        "price": "￥9.90",
+                        "refPrice": "￥3",
+                        "text": "百事可乐 无糖可乐型汽水330ml*24罐 塑包 态度罐"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/tCO0dxjxpH_Yt-M2nZeyYQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000178841769",
+                        "productType": 0,
+                        "price": "￥9.90",
+                        "refPrice": "￥3",
+                        "text": "【苏宁易购超市】零度可口可乐汽水 Sleek Can 330ml*24罐 整箱装"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/D0348xG5Qm_XCUVqbMOTAA.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "47.50",
+                    "supplierCode": "0010077369",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "可口可乐（cocacola）汽水 330ml*24听装 箱装饮料（新老包装随机发货）",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/tgalVdcl7oCnki7huPIdxQ.jpg",
+                    "sugGoodsCode": "000000000155267597",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/gmSO1dJv58ci8uxdbw3rFg.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "60.80",
+                    "supplierCode": "0010129285",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "百事可乐 可乐型汽水500ml*24瓶（箱装 / 塑包）碳酸饮料",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/n83QoP-oTI-Qw7rZOHnFPw.jpg",
+                    "sugGoodsCode": "000000000104008307",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/ZPKw_35xuMTaJpJ9ijovHg.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "55.90",
+                    "supplierCode": "0010129285",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "百事可乐 可乐型汽水（细长罐）330ml*24罐 鼠年罐（普通细长罐和鼠年罐随机发货）碳酸饮料",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/VyzR56CR47kuY339qJRddw.jpg",
+                    "sugGoodsCode": "000000010525211390",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                }
+            ],
+            "author": "114768771077"
+        },
+         {
+           "id":2,
+            "contentType": "2",
+            "handwork": "rec_19-43_13_A",
+            "contentId": "601391858",
+            "imageUrl": "http://image4.suning.cn/uimg/MFS/show/157554367815038964.jpg_0-71-710-319a",
+            "desc": "冰箱是家中的储鲜大电器，一年四季都要为我们服务，节能环保特性很重要。而一级能效冰箱就有着良好的节能特性，不必担心长时间开启而带来大量的电耗开支，是家中的储鲜冰箱首选。同时采用了优质的变频压缩机，让冰箱中的温度更加稳定，并具有静音的优点。",
+            "faceUrl": "http://image3.suning.cn/uimg/MFS/show/150393151146682993.jpg",
+            "title": "全天开费电？一级能效冰箱巧节能",
+            "nick": "识好货",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 9,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/NjMW_THP6JhN078QTBIPkA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011022832739",
+                        "productType": 0,
+                        "price": "￥9990",
+                        "refPrice": "￥399",
+                        "text": "美的冰箱BCD-446WTPZM(E)莫兰迪灰"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/3xTeTOYn6pOkoi56Uax5vA==.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010108910065",
+                        "productType": 0,
+                        "price": "￥9999",
+                        "refPrice": "￥599",
+                        "text": "伊莱克斯冰箱ESE6619GD"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070921984",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/puuwHUkAcSIvwhD-0Yl89w.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011291788530",
+                        "productType": 0,
+                        "text": "康佳BCD-450WEGX4SP"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/ytuRN1A69y8of64Fg3quDg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011066611755",
+                        "productType": 0,
+                        "text": "美的BCD-320WTPM(E)爵士棕"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/fEx4Fntfu9q2CfazvLoOGQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011357838827",
+                        "productType": 0,
+                        "text": "美的冰箱 BCD-630WKPZM(E) 莫兰迪灰"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/zUmBLjgNXIZDrQ98NPP76A.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010108910214",
+                        "productType": 0,
+                        "text": "伊莱克斯冰箱ESE6619TD"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/W0xwtFAu8Y0taVPn0amZrQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011237853234",
+                        "productType": 0,
+                        "text": "美的冰箱 BCD-508WTPZM(E) 莫兰迪灰"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/m0uQ-RuhbHiwpuZWUAlykg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011237617540",
+                        "productType": 0,
+                        "text": "美的 冰箱 BCD-507WTPZM(E) 莫兰迪灰"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070140409",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/lHKGfFkXFSSvgR_r8U_xfA.png_400w_400h_4e_340w_340h_1e",
+                        "productCode": "000000011194695080",
+                        "productType": 0,
+                        "text": "奥马（Homa）455升对开门冰箱 BCD-455WKJH/B新摩卡棕 变频风冷无霜 一级能效"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/3xTeTOYn6pOkoi56Uax5vA==.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "5899.00",
+                    "jiage":"999",
+                    "jianjia":"199",
+                    "supplierCode": "0010167234",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "6999.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "伊莱克斯(ELECTROLUX) ESE6619GD “金刚” 650升对开门冰箱 风冷变频 电脑控温 新一级能效",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/3xTeTOYn6pOkoi56Uax5vA==.jpg",
+                    "sugGoodsCode": "000000010108910065",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/W0xwtFAu8Y0taVPn0amZrQ.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "6499.00",
+                    "jiage":"88",
+                    "jianjia":"12",
+                    "supplierCode": "0010041094",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "8122.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "美的（Midea）BCD-508WTPZM(E) 19分钟急速净味 风冷无霜 一级能效 智能操控 变频节能法式多门电冰箱",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/W0xwtFAu8Y0taVPn0amZrQ.jpg",
+                    "sugGoodsCode": "000000011237853234",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/lHKGfFkXFSSvgR_r8U_xfA.png_400w_400h_4e_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "4999.00",
+                    "supplierCode": "0070140409",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "5499.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "奥马（Homa）455升对开门冰箱 变频风冷无霜 一级能效 BCD-455WKJH/B新摩卡棕",
+                    "shopCode": "0070140409",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/lHKGfFkXFSSvgR_r8U_xfA.png",
+                    "sugGoodsCode": "000000011194695080",
+                    "promotionType": "",
+                    "vendorId": "0070140409",
+                    "promotionId": ""
+                }
+            ],
+            "author": "119320219990"
+        },
+         {
+            "id":3,
+            "contentType": "2",
+            "handwork": "rec_19-43_12_A",
+            "contentId": "9187119791",
+            "imageUrl": "http://image.suning.cn/uimg/MZMS/show/157734215537445160.jpg_0-280-800-360a",
+            "desc": "中国的饮茶文化有几千年之久，文化十分厚重，并且还有对身体十分健康，而近年来，人们也越来越关心健康问题了，所以在新年来临之际挑选伴手礼一定非茶叶莫属了，经常喝茶可以清肺润肺，降血脂等等，而且礼盒包装高大上，送起人来也更有面子。",
+            "faceUrl": "http://image5.suning.cn/uimg/MFS/show/154094855196229669.jpg_0-0-690-690a|400w_400h_2e|400w_400h_2e",
+            "title": "礼送长辈，好茶清甜续人生百味",
+            "nick": "爱物及屋",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 11,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0070121928",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734196876615055.jpg_340w_340h_1e",
+                        "productCode": "000000000141394504",
+                        "productType": 0,
+                        "text": "闽掌柜 武夷红茶 原产地正山小种茶叶200g 荷雅瓷罐礼盒装"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070586477",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734197440769291.jpg_340w_340h_1e",
+                        "productCode": "000000010752931644",
+                        "productType": 0,
+                        "text": "福岗 新茶品质武夷山正山小种红茶茶叶罐装大份量礼盒木桶散装"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070575801",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734198014388559.jpg_340w_340h_1e",
+                        "productCode": "000000010722267388",
+                        "productType": 0,
+                        "text": "浓香型金骏眉红茶武夷山桐木关金俊眉茶叶散装500克蜜香木桶礼盒装"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0071050792",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734198921032474.jpg_340w_340h_1e",
+                        "productCode": "000000011581418282",
+                        "productType": 0,
+                        "text": "金骏眉2019小泡罐茶叶特级红茶茶叶礼盒装金俊眉礼盒20罐装"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070090308",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734202750970305.jpg_340w_340h_1e",
+                        "productCode": "000000000143924194",
+                        "productType": 0,
+                        "text": "【新品】莫等闲 旧时光 武夷山红茶正山小种 大份量500g复古情怀精细做旧"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070159348",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734203445389180.jpg_340w_340h_1e",
+                        "productCode": "000000000605471933",
+                        "productType": 0,
+                        "text": "春逸茗茶 金骏眉茶叶 武夷山桐木关 红茶 礼盒装私藏3号220g"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070211854",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734204005754561.jpg_340w_340h_1e",
+                        "productCode": "000000010628798531",
+                        "productType": 0,
+                        "text": "小罐茶银罐拼装茶礼盒80g"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070586477",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734200497136415.jpg_340w_340h_1e",
+                        "productCode": "000000010752828206",
+                        "productType": 0,
+                        "text": "2019小泡罐茶叶特级红茶金骏眉茶叶礼盒装金俊眉礼盒20罐"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070099541",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157734211931401864.jpg_0-0-800-800a|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000132336444",
+                        "productType": 0,
+                        "text": "【买二送杯】安徽天方茶叶300g一级黄山毛峰绿茶春茶 雨前高山烘青毛峰绿茶 茶叶礼盒装茶叶"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157734197440769291.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "168.00",
+                    "supplierCode": "0070586477",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "499.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "福岗 新茶品质武夷山正山小种红茶茶叶罐装大份量礼盒木桶散装",
+                    "shopCode": "0070586477",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/_AGJ99g57UaXlv2NxTLZqA.jpg",
+                    "sugGoodsCode": "000000010752931644",
+                    "promotionType": "",
+                    "vendorId": "0070586477",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157734203445389180.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "299.00",
+                    "supplierCode": "0070159348",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "399.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "春逸茗茶 金骏眉茶叶 武夷山桐木关 小种红茶礼盒装私藏3号220g",
+                    "shopCode": "0070159348",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/k4f9-OP7FWZS2bak8mmCAg.jpg",
+                    "sugGoodsCode": "000000000605471933",
+                    "promotionType": "",
+                    "vendorId": "0070159348",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157734196876615055.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "108.00",
+                    "jiage":"50",
+                    "jianjia":"10",
+                    "supplierCode": "0070121928",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "520.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "【年货顺丰直达】闽掌柜 2019春茶武夷山原产地正山小种红茶茶叶200g 荷雅瓷罐礼盒装",
+                    "shopCode": "0070121928",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/fmrm1ghPWQilVVfPa6MVLw.jpg",
+                    "sugGoodsCode": "000000000141394504",
+                    "promotionType": "",
+                    "vendorId": "0070121928",
+                    "promotionId": ""
+                }
+            ],
+            "author": "116709956678"
+        },
+        {
+            "id":4,
+            "contentType": "2",
+            "handwork": "rec_19-43_14_A",
+            "contentId": "2571505766",
+            "imageUrl": "http://image4.suning.cn/uimg/MFS/show/153266424904896276.jpg_0-225-1024-460a|710w_320h_2e",
+            "desc": "对于一个喜爱碳酸饮料的人，少了可乐的夏天不是真正的夏天。在被热气包围着的夏日里，喝一杯冰冻可乐的确让人倍感沁凉。囤一箱放在冰箱里，追剧、打游戏随手拿一瓶，或者与朋友分享，均是满满的快乐。",
+            "faceUrl": "http://image4.suning.cn/uimg/MFS/show/157205548820805346.jpg",
+            "title": "酷爽过夏天 怎么少了冰可乐",
+            "nick": "爱吃糖",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 20,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image3.suning.cn/uimg/MFS/show/153266370136210128.jpg_340w_340h_1e",
+                        "productCode": "000000010279801221",
+                        "productType": 0,
+                        "text": "可口可乐铝瓶250ml/瓶"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image5.suning.cn/uimg/MFS/show/153266371049673706.jpg_340w_340h_1e",
+                        "productCode": "000000000945031643",
+                        "productType": 0,
+                        "text": "8件装| 可口可乐世界杯 32国参赛国版 无糖 500ml"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image3.suning.cn/uimg/MFS/show/153266369682462403.jpg_340w_340h_1e",
+                        "productCode": "000000000104008299",
+                        "productType": 0,
+                        "text": "百事可乐 7喜柠檬味汽水330ml*6听装 六联包 七喜"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image1.suning.cn/uimg/MFS/show/153266382897014514.jpg_340w_340h_1e",
+                        "productCode": "000000000104008296",
+                        "productType": 0,
+                        "text": "百事可乐碳酸饮料 六联包 330ml*6 听"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image1.suning.cn/uimg/MFS/show/153266383357062563.jpg_340w_340h_1e",
+                        "productCode": "000000000123866718",
+                        "productType": 0,
+                        "text": "雪碧 碳酸饮料 汽水（6连包） 330ml*6"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image1.suning.cn/uimg/MFS/show/153266366884173213.jpg_340w_340h_1e",
+                        "productCode": "000000010534903540",
+                        "productType": 1,
+                        "text": "Coca-Cola 可口可乐 20周年世界杯珍藏版（250ml/瓶） 举办国版 日本进口 世界杯可乐"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/153266367247373476.jpg_340w_340h_1e",
+                        "productCode": "000000000155267597",
+                        "productType": 0,
+                        "text": "可口可乐汽水 330ml*24罐 整箱装"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image5.suning.cn/uimg/MFS/show/153266367605150145.jpg_340w_340h_1e",
+                        "productCode": "000000000104008297",
+                        "productType": 0,
+                        "text": "百事可乐 碳酸饮料 可乐型汽水 330ml*24听 整箱"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/153266367789684184.jpg_340w_340h_1e",
+                        "productCode": "000000000104008307",
+                        "productType": 0,
+                        "text": "百事可乐 可乐型汽水600ml*24瓶（箱装 / 塑包）碳酸饮料"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://image4.suning.cn/uimg/MFS/show/153266367247373476.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "47.50",
+                    "supplierCode": "0010077369",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "可口可乐（cocacola）汽水 330ml*24听装 箱装饮料（新老包装随机发货）",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/tgalVdcl7oCnki7huPIdxQ.jpg",
+                    "sugGoodsCode": "000000000155267597",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image4.suning.cn/uimg/MFS/show/153266367789684184.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "60.80",
+                    "supplierCode": "0010129285",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "百事可乐 可乐型汽水500ml*24瓶（箱装 / 塑包）碳酸饮料",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/n83QoP-oTI-Qw7rZOHnFPw.jpg",
+                    "sugGoodsCode": "000000000104008307",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image2.suning.cn/uimg/MFS/show/153266372688242613.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "45.00",
+                    "supplierCode": "0070184951",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "48.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "百事可乐 无糖 可乐型汽水330ml*12罐 整箱",
+                    "shopCode": "0070184951",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/CmJwEZtqHl9QJbT7vEKycw==.jpg",
+                    "sugGoodsCode": "000000010542950150",
+                    "promotionType": "",
+                    "vendorId": "0070184951",
+                    "promotionId": ""
+                }
+            ],
+            "author": "119706738294"
+        },
+        {
+            "id":5,
+            "contentType": "1",
+            "handwork": "rec_19-43_14_A",
+            "contentId": "873275676",
+            "imageUrl": "http://image1.suning.cn/uimg/MFS/show/153490687372941441.jpg_0-0-710-319a|710w_320h_2e",
+            "desc": "炎炎夏日，烈火灼心。走在路上，简直就是行走的烤肉，就差一把孜然了，那何以解热？唯有冰饮。来一杯冰爽的饮料，就能立马享受透心凉的惬意。今天云朵儿给大家推荐几款好喝的，又不烂大街的饮料，让你喝出逼格，尽情享受透心凉的夏日！",
+            "faceUrl": "http://image5.suning.cn/uimg/MFS/show/153190552707160327.jpg_0-0-800-800a",
+            "title": "夏日畅饮季，小众饮品让你high翻",
+            "nick": "云朵儿家居",
+            "contentTag": "24",
+            "displayJson": {
+                "productCnt": 5,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image5.suning.cn/uimg/MFS/show/153545069244427531.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000109830038",
+                        "productType": 0,
+                        "text": "伊利 味可滋 香蕉牛奶"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/153541990605624164.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000633272679",
+                        "productType": 0,
+                        "text": "林德曼樱桃味啤酒"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070177421",
+                        "smallImageUrl": "http://image1.suning.cn/uimg/MFS/show/153542000845296928.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000010116226299",
+                        "productType": 0,
+                        "text": " 宾格瑞香蕉牛奶"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070184951",
+                        "smallImageUrl": "http://image5.suning.cn/uimg/MFS/show/153542012529410866.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000010544753985",
+                        "productType": 0,
+                        "text": "信远斋 桂花酸梅汤"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070177421",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/153542022421383941.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000010105531649",
+                        "productType": 0,
+                        "text": "统一水趣多乳酸菌"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://image4.suning.cn/uimg/MFS/show/153542022421383941.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "67.00",
+                    "supplierCode": "0070177421",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "统一水趣多乳酸菌发酵风味饮料500ml*15瓶 整箱",
+                    "shopCode": "0070177421",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/UoJevrUaMJ9n-JSBbfFoXw.jpg",
+                    "sugGoodsCode": "000000010105531649",
+                    "promotionType": "",
+                    "vendorId": "0070177421",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image5.suning.cn/uimg/MFS/show/153545069244427531.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "60.00",
+                    "jiage":"188",
+                    "jianjia":"88",
+                    "supplierCode": "0010165203",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "伊利 味可滋 香蕉牛奶 果味牛奶 礼盒装 12*240ml",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/_BYNdJfF_dHAMq4WXiQI9Q.jpg",
+                    "sugGoodsCode": "000000000109830038",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image1.suning.cn/uimg/MFS/show/153542000845296928.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "33.90",
+                    "supplierCode": "0070177421",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "三得利 乌龙茶（低糖）500ml*15瓶/箱 茶饮料",
+                    "shopCode": "0070177421",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/OG8KaKanDKW-jmw_aj2eTg.jpg",
+                    "sugGoodsCode": "000000010116226299",
+                    "promotionType": "",
+                    "vendorId": "0070177421",
+                    "promotionId": ""
+                }
+            ],
+            "author": "116287649255"
+        },
+        {
+           "id":6,
+            "contentType": "1",
+            "handwork": "rec_19-43_13_A",
+            "contentId": "8938983554",
+            "imageUrl": "http://image4.suning.cn/uimg/MFS/show/157365399359019814.jpg_0-213-1000-450a",
+            "desc": "杜比音效电视机，可营造立体震撼的沉浸感受，如还原临场原音一样的，大饱耳福，尽情享受影视剧。",
+            "faceUrl": "http://image3.suning.cn/uimg/MFS/show/150393151146682993.jpg",
+            "title": "还临场原音的10款杜比电视推荐",
+            "nick": "识好货",
+            "contentTag": "24",
+            "displayJson": {
+                "productCnt": 10,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/157365672511965384.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000011269641858",
+                        "productType": 0,
+                        "text": "海信全面屏杜比电视"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image2.suning.cn/uimg/MFS/show/157365676089326634.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000623609906",
+                        "productType": 0,
+                        "text": "PPTV广色域电视"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image1.suning.cn/uimg/MFS/show/157365678966871756.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000011061795981",
+                        "productType": 0,
+                        "text": "三星语音杜比电视"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image1.suning.cn/uimg/MFS/show/157365682350156525.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000011066187508",
+                        "productType": 0,
+                        "text": "海信运动防抖杜比电视"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/157365686525978214.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000010682796973",
+                        "productType": 0,
+                        "text": "夏普高性能杜比电视"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/157365690325218762.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000011247109669",
+                        "productType": 0,
+                        "text": "康佳HDR杜比电视"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image5.suning.cn/uimg/MFS/show/157365692915015338.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000010886631976",
+                        "productType": 0,
+                        "text": "三星量子点杜比电视"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://image3.suning.cn/uimg/MFS/show/157365695601613024.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "大聚惠",
+                    "price": "1999.00",
+                    "supplierCode": "0010167064",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "2309.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "先锋电视(Pioneer)LED-55B580 55英寸高清AI人工智能超薄边框平板液晶电视50 60",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/X3jIZ67dd14gjAxXnGa_7Q.jpg",
+                    "sugGoodsCode": "000000010903394309",
+                    "promotionType": "1",
+                    "vendorId": "0000000000",
+                    "promotionId": "17177641"
+                },
+                {
+                    "sugGoodsPicUrl": "http://image5.suning.cn/uimg/MFS/show/157365700878816851.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "大聚惠",
+                    "price": "3199.00",
+                    "supplierCode": "0010162575",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "4175.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "夏普（SHARP）60G4AA 60英寸日本原装面板4k超高清 网络智能杜比音效电视",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/WGS1Uk6fuk3EjsJiRiWLwQ.jpg",
+                    "sugGoodsCode": "000000010832134329",
+                    "promotionType": "1",
+                    "vendorId": "0000000000",
+                    "promotionId": "17108418"
+                },
+                {
+                    "sugGoodsPicUrl": "http://image1.suning.cn/uimg/MFS/show/157365698362316678.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "7999.00",
+                    "supplierCode": "0010146816",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "8519.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "PPTV智能电视65EU2 65英寸 无边框全面屏 4K超高清 杜比音效 网络WIFI智能电视机",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/Zk5ORZwvkVSB0Aj98kl9Ng.jpg",
+                    "sugGoodsCode": "000000010570040706",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                }
+            ],
+            "author": "119320219990"
+        },
+        {
+            "id":7,
+            "contentType": "2",
+            "handwork": "rec_19-43_13_A",
+            "contentId": "4122637105",
+            "imageUrl": "http://image4.suning.cn/uimg/MFS/show/157382900846736292.jpg_0-136-1000-450a",
+            "desc": "电视机作为家里的娱乐工具之一，除了需要高清的画质外，音效的呈现也是越来越多人关注的。下面这些搭载有杜比的语音电视绝对是不错的选择，它能营造立体环绕声的效果，临场感更为震撼。并且搭载了智能语音功能，只需要开口命令即可播出你喜欢的影剧。",
+            "faceUrl": "http://image4.suning.cn/uimg/MFS/show/150419324079625065.jpg",
+            "title": "杜比环绕，语音电视张口即播",
+            "nick": "潮值购",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 9,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/QXrgs6X0ucdFoKABbwvjeQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011066187560",
+                        "productType": 0,
+                        "text": "海信（Hisense）HZ50E5D 50英寸4K超高清 人工智能 AI声控+遥控器语音 超薄全面屏平板电视"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/J8hCtimgKb0UsbUAUS4oMQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011061795981",
+                        "productType": 0,
+                        "text": "三星电视 UA65RUF60EJXXZ"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/c0FPMzdmJAnSXnXPEfqICg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000623609905",
+                        "productType": 0,
+                        "text": "PPTV智能电视N55 4GB+16GB"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/RWMVQxEbfN0frSpXpYzK_w.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011087027549",
+                        "productType": 0,
+                        "text": "海信(Hisense)HZ70E3D 4K HDR超高清 全金属机身 遥控器语音 AI智能平板电视"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/4QW1EbKRcHRIYR8Eg9xP9Q.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010620763875",
+                        "productType": 0,
+                        "text": "海信(Hisense) H58E3A 58英寸4K HDR 人工智能液晶平板电视机 丰富影视教育资源"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/Jk2bAqbnfql5maqRfozf4Q.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010524666530",
+                        "productType": 0,
+                        "text": "PPTV智能电视50NU4"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/gLeD7ayU3Evfg4UMncbjrw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011056344229",
+                        "productType": 0,
+                        "text": "PPTV智能电视43UF5"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/gqaTjV45VANtBbU2HLcbXw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010886631976",
+                        "productType": 0,
+                        "text": "三星电视 QA55Q60RAJXXZ"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070209013",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/M3IHEBPcs3DK43KOCzzEAw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010871161312",
+                        "productType": 0,
+                        "text": "康佳（KONKA）B50U 50英寸4K超高清 HDR 金属边框31核WiFi平板液晶智能电视机"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/gLeD7ayU3Evfg4UMncbjrw.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "2499.00",
+                    "supplierCode": "0010146816",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "2699.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "PPTV智能电视43UF5 43英寸 无边框全面屏全高清 杜比音效 网络WIFI智能电视机",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/gLeD7ayU3Evfg4UMncbjrw.jpg",
+                    "sugGoodsCode": "000000011056344229",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/QXrgs6X0ucdFoKABbwvjeQ.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "2799.00",
+                    "supplierCode": "0010073971",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "3541.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "海信(Hisense)HZ50E5D 50英寸 AI声控 MEMC防抖 超薄无边全面屏 4K超高清 人工智能平板电视机",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/5T7NVRnq0RvrTg5ZmEk-NQ.jpg",
+                    "sugGoodsCode": "000000011066187560",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/RWMVQxEbfN0frSpXpYzK_w.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "3999.00",
+                    "supplierCode": "0010073971",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "5915.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "海信(Hisense)HZ70E3D 70英寸 4K超高清 HDR 全金属机身 全场景智慧语音 人工智能平板电视机",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/jbmYyx2kHbTfjwMw_xZFMQ.jpg",
+                    "sugGoodsCode": "000000011087027549",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                }
+            ],
+            "author": "118877654932"
+        }
+    ],
+       
+     "goods":[
+       {
+            "contentType": "1",
+            "handwork": "rec_19-43_14_A",
+            "contentId": "7931191713",
+            "imageUrl": "http://image5.suning.cn/uimg/MFS/show/157164708114614978.jpg_0-157-800-360a",
+            "desc": "对于给孩子们喝的饮料，除了需要注重口感和补充水份之外，还要着重注意饮料的营养和健康安全方面。",
+            "faceUrl": "http://show.m.suning.com/RES/common/style/images/avatar001.png",
+            "title": "十款回味无穷的儿童营养饮品",
+            "nick": "丽人生活家",
+            "contentTag": "24",
+            "displayJson": {
+                "productCnt": 10,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/BsnTp4mlwDNXYzDrHYXA5Q.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000156212712",
+                        "productType": 0,
+                        "text": "伊利 原味乳酸菌饮料"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/L4ydtvXnE2crdInL0fG3SA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000103995029",
+                        "productType": 0,
+                        "text": "蒙牛 真果粒牛奶饮品"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/pXbcwkukpa9TJBqyusGJvA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011128431700",
+                        "productType": 0,
+                        "text": "娃哈哈 儿童乳酸菌"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070230548",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/UCwX0hDyd5bde4iBQazZ5w.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010873067976",
+                        "productType": 0,
+                        "text": "伊利QQ星酸奶"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/o0z06-OY_qIeqSqO_2mH8A.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000155267598",
+                        "productType": 0,
+                        "text": "儿童成长风味酸牛奶"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070181626",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/5pXiOkU84jXQ38PrMB7x2A.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010789076870",
+                        "productType": 0,
+                        "text": "娃哈哈 儿童AD钙奶"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070228434",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/a2Us8DHNK-DZlFbO18ZxqA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011356575911",
+                        "productType": 0,
+                        "text": "盼盼儿童强乳酸菌饮料"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/L4ydtvXnE2crdInL0fG3SA.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "37.90",
+                    "supplierCode": "0010131764",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "蒙牛 真果粒牛奶饮品（桃果粒）250g*12盒",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/UfCTW35LwQqGW0e0ey0Kkg.jpg",
+                    "sugGoodsCode": "000000000103995029",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/5pXiOkU84jXQ38PrMB7x2A.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "31.80",
+                    "supplierCode": "0070181626",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "年货娃哈哈AD钙奶100g*24瓶散装儿童牛奶饮料",
+                    "shopCode": "0070181626",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/5pXiOkU84jXQ38PrMB7x2A.jpg",
+                    "sugGoodsCode": "000000010789076870",
+                    "promotionType": "",
+                    "vendorId": "0070181626",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/AOe56-khinx8CvZ6FFsAIg.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "60.00",
+                    "supplierCode": "0010165203",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "伊利 味可滋 香蕉牛奶 果味牛奶 礼盒装 12*240ml",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/_BYNdJfF_dHAMq4WXiQI9Q.jpg",
+                    "sugGoodsCode": "000000000109830038",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                }
+            ],
+            "author": "117787555219"
+        },
+      {
+            "contentType": "1",
+            "handwork": "rec_19-43_14_A",
+            "contentId": "2283615513",
+            "imageUrl": "http://image1.suning.cn/uimg/MFS/show/156635809891016624.jpg_0-0-710-319a",
+            "desc": "上班族们除了汗流浃背之外，口干舌燥情况也是经常发生，所以备些碳酸饮料是很有必要的，即开即饮，清爽怡人，给你透心凉的感觉。",
+            "faceUrl": "",
+            "title": "清爽可口的10款碳酸饮料推荐",
+            "nick": "舍得买",
+            "contentTag": "24",
+            "displayJson": {
+                "productCnt": 10,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0070177421",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/1-_Ta2lZMWGoSaISSR1Hrg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011034623867",
+                        "productType": 0,
+                        "text": "可口可乐碳酸饮料"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/JTCrq4pHHfAxj_NqxQUy4g.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010559080074",
+                        "productType": 0,
+                        "text": "百事可乐无糖饮料"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/0vFaPM3z66xbEdzSFLXM5A.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000104008327",
+                        "productType": 0,
+                        "text": "美年达经典橙味汽水"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070756005",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/aqBzzSQYG_Y2SNYCDhI4Jg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011148286029",
+                        "productType": 0,
+                        "text": "海之言柠檬口味饮料"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070228434",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/-QlvIAI0iirCev_BT75-_g.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011080096706",
+                        "productType": 0,
+                        "text": "雪碧罐装碳酸饮料"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/2v_vJSQb5J9dc6WhacJuQg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000104008297",
+                        "productType": 0,
+                        "text": "百事可乐碳酸饮料 "
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/rwTNOXNq2wAdGOhqlrNRIA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000104008300",
+                        "productType": 0,
+                        "text": "7喜柠檬味碳酸饮料"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/-XqskwvmD4Z4r9B1CscDtw.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "34.00",
+                    "potic":"领券中心",
+                    "supplierCode": "0010077369",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "可口可乐 汽水 300ml*24/箱",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/-XqskwvmD4Z4r9B1CscDtw.jpg",
+                    "sugGoodsCode": "000000000744857861",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/GMjjKCMaV43Jcw94ZjTrOw.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "29.90",
+                    "supplierCode": "0070177421",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "屈臣氏（Watsons） 苏打汽水 碳酸饮料 原味苏打水330ml*6罐",
+                    "shopCode": "0070177421",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/GMjjKCMaV43Jcw94ZjTrOw.jpg",
+                    "sugGoodsCode": "000000000132667106",
+                    "promotionType": "",
+                    "vendorId": "0070177421",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/1-_Ta2lZMWGoSaISSR1Hrg.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "20.90",
+                    "supplierCode": "0070177421",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "可口可乐 碳酸饮料汽水330ml*6罐 细长罐 摩登罐",
+                    "shopCode": "0070177421",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/1-_Ta2lZMWGoSaISSR1Hrg.jpg",
+                    "sugGoodsCode": "000000011034623867",
+                    "promotionType": "",
+                    "vendorId": "0070177421",
+                    "promotionId": ""
+                }
+            ],
+            "author": "112641304363"
+        },
+       {
+            "contentType": "1",
+            "handwork": "rec_19-43_13_A",
+            "contentId": "5584603323",
+            "imageUrl": "http://image1.suning.cn/uimg/MFS/show/157215805199638575.jpg_0-195-793-356a",
+            "desc": "迷你立式冷柜虽然身材娇小，可是内部宽敞的内胆在储物能力上也不容小觑。而且还有不同的模式可供选择，满足不同食材不同需求。",
+            "faceUrl": "http://image3.suning.cn/uimg/MFS/show/150393151146682993.jpg",
+            "title": "适合小户型的10款迷你冷柜推荐",
+            "nick": "识好货",
+            "contentTag": "24",
+            "displayJson": {
+                "productCnt": 10,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image2.suning.cn/uimg/MFS/show/157215808797282276.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000134024088",
+                        "productType": 0,
+                        "text": "美的四种模式迷你冷柜"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image2.suning.cn/uimg/MFS/show/157215812026677770.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000107786521",
+                        "productType": 0,
+                        "text": "海尔高效迷你冷柜"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/157215817929570823.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000139658307",
+                        "productType": 0,
+                        "text": "容声断电保护迷你冷柜"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image2.suning.cn/uimg/MFS/show/157215820592872006.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000103606098",
+                        "productType": 0,
+                        "text": "美菱一级能效迷你冷柜"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image3.suning.cn/uimg/MFS/show/157215823599433844.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000011179012476",
+                        "productType": 0,
+                        "text": "美的电脑控温迷你冷柜"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image5.suning.cn/uimg/MFS/show/157215826565771621.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000010623161006",
+                        "productType": 0,
+                        "text": "康佳均匀制冷迷你冷柜"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image1.suning.cn/uimg/MFS/show/157215829587962503.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000181725544",
+                        "productType": 0,
+                        "text": "海信低能耗迷你冷柜"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://image5.suning.cn/uimg/MFS/show/157215835948715028.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "649.00",
+                    "supplierCode": "0010078637",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "846.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "康佳（KONKA）106升 单门小冰柜 冷藏冷冻转换冷柜 冰柜小型家用 节能保鲜 单温迷你冰箱 BD/BC-106DTH",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/ybOdc2WLwVZZIP7AzKuY4w.jpg",
+                    "sugGoodsCode": "000000010623161006",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image2.suning.cn/uimg/MFS/show/157215808797282276.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "拼购",
+                    "price": "599.00",
+                    "supplierCode": "0010041094",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "699.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "美的（Midea）BD/BC-96KM(E) 96升 家用冰柜 冷藏冷冻转换顶开门 小型迷你冷柜 节能静音单温卧式冷柜",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/ZtEF5tIJvr0mzG02g4MIHQ.jpg",
+                    "sugGoodsCode": "000000000134024088",
+                    "promotionType": "501",
+                    "vendorId": "0000000000",
+                    "promotionId": "51572559252091844088"
+                },
+                {
+                    "sugGoodsPicUrl": "http://image2.suning.cn/uimg/MFS/show/157215812026677770.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "拼购",
+                    "price": "749.00",
+                    "supplierCode": "0010011808",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "903.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "海尔（Haier）BC/BD-101HZ 101升家用冰柜 冷藏冷冻转换柜 顶开门迷你小冰箱 节能单温卧式冷柜",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/JFDoJmtaax_cC9ABxDM_wQ.jpg",
+                    "sugGoodsCode": "000000000107786521",
+                    "promotionType": "501",
+                    "vendorId": "0000000000",
+                    "promotionId": "51465171847148166521"
+                }
+            ],
+            "author": "119320219990"
+        },
+       {
+            "contentType": "1",
+            "handwork": "rec_19-43_12_A",
+            "contentId": "9865262575",
+            "imageUrl": "http://image.suning.cn/uimg/MZMS/show/157736745889396661.jpg_0-34-749-337a",
+            "desc": "采用优质材料配合古法酿造而成，口感香醇不上头，是过年走亲访友必备良品。",
+            "faceUrl": "http://image5.suning.cn/uimg/MFS/show/153181962794142773.jpg_0-0-500-500a",
+            "title": "十款好喝不上头的醇香白酒推荐",
+            "nick": "居家小能手哟",
+            "contentTag": "24",
+            "displayJson": {
+                "productCnt": 10,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157736448692666572.jpg_340w_340h_1e",
+                        "productCode": "000000000782455946",
+                        "productType": 0,
+                        "text": "泸州老窖浓香型白酒"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157736542712722855.jpg_340w_340h_1e",
+                        "productCode": "000000010057041942",
+                        "productType": 0,
+                        "text": "茅台兼香型白酒"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157736555254351082.jpg_340w_340h_1e",
+                        "productCode": "000000000123098765",
+                        "productType": 0,
+                        "text": "牛栏山清香型白酒"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157736564545771074.jpg_340w_340h_1e",
+                        "productCode": "000000010052910351",
+                        "productType": 0,
+                        "text": "五粮液浓香型白酒"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070068918",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157736597703367475.jpg_340w_340h_1e",
+                        "productCode": "000000010672069322",
+                        "productType": 0,
+                        "text": "洋河大曲酒"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070130633",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157736632873934414.jpg_0-0-750-750a_|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000010798841895",
+                        "productType": 0,
+                        "text": "汾酒清香型白酒"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070207329",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157736641738250551.jpg_340w_340h_1e",
+                        "productCode": "000000010994289155",
+                        "productType": 0,
+                        "text": "剑南春浓香型白酒"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157736735121557874.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "218.00",
+                    "supplierCode": "0070241720",
+                    "potic":"领券中心",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "2388.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "西凤酒 50度 御窖 优品级 西凤白酒 红坛装 浓香型白酒 喜酒 婚宴 西风酒 送礼盒装500ml*6瓶 白酒箱装",
+                    "shopCode": "0070241720",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/qCkoiKdr7QBk73ScsmlK1w.jpg",
+                    "sugGoodsCode": "000000010707211592",
+                    "promotionType": "",
+                    "vendorId": "0070241720",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157736564545771074.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "249.00",
+                    "jiage":"1000",
+                    "jianjia":"99.9",
+                    "supplierCode": "0010133191",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "宜宾五粮液股份公司出品 富贵天下 佳藏 52度500ml*6 整箱装 浓香型白酒",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/Lhlpw5COPYrgs92zE1JP4g.jpg",
+                    "sugGoodsCode": "000000010052910351",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157736641738250551.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "179.00",
+                    "supplierCode": "0070207329",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "【可开发票 保证正品】四川剑南春酒厂出品 绵竹大曲纯粮经典 52度500ml*12瓶整箱装 浓香型白酒",
+                    "shopCode": "0070207329",
+                    "sugGoodsId": "",
+                    "potic":"领券中心",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/lbIAeP9Fgs3LG6geWNexoQ.jpg",
+                    "sugGoodsCode": "000000010994289155",
+                    "promotionType": "",
+                    "vendorId": "0070207329",
+                    "promotionId": ""
+                }
+            ],
+            "author": "112670684501"
+        },
+       {
+            "contentType": "2",
+            "handwork": "rec_19-43_14_A",
+            "contentId": "7040018592",
+            "imageUrl": "http://image1.suning.cn/uimg/MFS/show/155965681668162736.jpg_0-0-710-319a",
+            "desc": "燥热的天气，很容易让人觉得闷和烦躁。不妨给自己来一瓶冰镇的碳酸饮料，冰镇的口感，入口即给身体带来一丝的凉爽；碳酸饮料独有的口感，喝完之后的气感，也容易让人产生愉快的感觉。不过，冰镇的碳酸饮料，虽然可以在热天带来冰爽感觉，但要适量别喝太多哦。",
+            "faceUrl": "http://image3.suning.cn/uimg/MFS/show/156758886218278849.jpg_0-0-2362-2362a",
+            "title": "清爽畅快，天热适合来瓶碳酸饮料",
+            "nick": "智能居家生活",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 20,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/ltaFEsnXsxgk0TuJU-oDKw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000123865576",
+                        "productType": 0,
+                        "text": "可口可乐(Coca-Cola)汽水 330ml*6"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/FuzwVBCY3G0ouPYqsiSHpg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000123866718",
+                        "productType": 0,
+                        "text": "可口可乐 雪碧 碳酸饮料 汽水（6连包） 330ml*6"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/LBS81RBvfAjB3o7Bk1RUkA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000104008296",
+                        "productType": 0,
+                        "text": "百事可乐碳酸饮料 六联包 330ml*6 听"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/xiqjVGhwqzLm0qKOP_TVTw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000104008299",
+                        "productType": 0,
+                        "text": "百事可乐 7喜柠檬味汽水330ml*6听装 六联包 七喜"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/LpR4MVDBWPbhZwRLYegA2w.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010525211390",
+                        "productType": 0,
+                        "text": "百事可乐 可乐型汽水（细长罐）330ml*24罐"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/X5wwsxO7a9DypHpGPmH4sg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000621620279",
+                        "productType": 0,
+                        "text": "可口可乐雪碧（Sprite）Sleek Can 330ml*24罐 整箱装"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/gnoHTkSFvKnUcTmnMeMi3w.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000621620280",
+                        "productType": 0,
+                        "text": "可口可乐 芬达(Fanta) 橙味摩登罐 330ml*24罐 整箱装 细长罐"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/iaewiDw1yZIncxiQ9PlSFA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000178841772",
+                        "productType": 0,
+                        "text": "怡泉+C 柠檬味汽水 Sleek Can 330ml*24罐 整箱装 （新老包装随机发货）"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/vcxGdySM7tnAKiAROw9Ldg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000155267597",
+                        "productType": 0,
+                        "text": "可口可乐汽水 330ml*24罐 整箱装"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/-XqskwvmD4Z4r9B1CscDtw.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "34.00",
+                    "supplierCode": "0010077369",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "可口可乐 汽水 300ml*24/箱",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/-XqskwvmD4Z4r9B1CscDtw.jpg",
+                    "sugGoodsCode": "000000000744857861",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/vcxGdySM7tnAKiAROw9Ldg.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "47.50",
+                    "supplierCode": "0010077369",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "可口可乐（cocacola）汽水 330ml*24听装 箱装饮料（新老包装随机发货）",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/tgalVdcl7oCnki7huPIdxQ.jpg",
+                    "sugGoodsCode": "000000000155267597",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/yianO57M6T2eBRggNnY1Ig.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "60.80",
+                    "supplierCode": "0010129285",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "百事可乐 可乐型汽水500ml*24瓶（箱装 / 塑包）碳酸饮料",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/n83QoP-oTI-Qw7rZOHnFPw.jpg",
+                    "sugGoodsCode": "000000000104008307",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                }
+            ],
+            "author": "110731748030"
+        },
+       {
+            "contentType": "2",
+            "handwork": "rec_19-43_13_A",
+            "contentId": "860416913",
+            "imageUrl": "http://image.suning.cn/uimg/MZMS/show/157664788434103625.jpg_0-0-733-329a",
+            "desc": "HDR电视和HDR观看模式对我们来说都不陌生，HDR技术让我们在观看视频上有了更清晰的画质，也有色彩饱和度更高的画面。从过去的黑白电视机到现在高动态捕捉的HDR电视，人们对生活品质的追求越来越高，HDR电视也带给我们更美好的生活。",
+            "faceUrl": "http://image1.suning.cn/uimg/MFS/show/151746653208679888.jpg",
+            "title": "HDR电视，在家也能看见真视界",
+            "nick": "嗨购吧Gardenia",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 10,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789526928167.jpg_340w_340h_1e",
+                        "productCode": "000000011042808612",
+                        "productType": 0,
+                        "text": "Haier/海尔 LU50C51"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789533930192.jpg_340w_340h_1e",
+                        "productCode": "000000010614483977",
+                        "productType": 0,
+                        "text": "创维电视65H5"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070087466",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789541372268.jpg_340w_340h_1e",
+                        "productCode": "000000010894865485",
+                        "productType": 0,
+                        "text": "长虹(CHANGHONG)55A4U 55英寸20核智能4K超高清电视 HDR轻薄平板LED液晶（黑色）"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789548015528.jpg_340w_340h_1e",
+                        "productCode": "000000011042808621",
+                        "productType": 0,
+                        "text": "Haier/海尔彩电 LU55C51"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070161390",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789555891913.jpg_340w_340h_1e",
+                        "productCode": "000000000633283238",
+                        "productType": 0,
+                        "text": "LCD-40SF466A"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789561822824.jpg_340w_340h_1e",
+                        "productCode": "000000011275014306",
+                        "productType": 0,
+                        "text": "海尔(Haier) LS50M31"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0070080559",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789568529535.jpg_340w_340h_1e",
+                        "productCode": "000000010990011198",
+                        "productType": 0,
+                        "text": "康佳（KONKA）55G3U 55英寸4K HDR超高清 AI智能 液晶电视机55"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789574815206.jpg_340w_340h_1e",
+                        "productCode": "000000011091912993",
+                        "productType": 0,
+                        "text": "Haier/海尔彩电 LU58C51"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image.suning.cn/uimg/MZMS/show/157664789581642465.jpg_340w_340h_1e",
+                        "productCode": "000000010542333571",
+                        "productType": 0,
+                        "text": "小米电视4S 43英寸 L43M5-AU"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157664789568529535.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "1699.00",
+                    "potic":"领券中心",
+                    "supplierCode": "0070080559",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "2799.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "康佳（KONKA）55G3U 55英寸4K HDR超高清 AI智能 液晶电视机55",
+                    "shopCode": "0070080559",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/DcpOjpW-RkXBoCizdYGlNA.jpg",
+                    "sugGoodsCode": "000000010990011198",
+                    "promotionType": "",
+                    "vendorId": "0070080559",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157664789541372268.jpg_340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "1799.00",
+                    "supplierCode": "0070087466",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "2599.00",
+                    "productType": "2",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "长虹(CHANGHONG)55A4U 55英寸20核智能4K超高清电视HDR轻薄平板LED液晶（黑色）",
+                    "shopCode": "0070087466",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/WyBfMqlmiFFNmLGKWUCsBA.jpg",
+                    "sugGoodsCode": "000000010894865485",
+                    "promotionType": "",
+                    "vendorId": "0070087466",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image.suning.cn/uimg/MZMS/show/157664789561822824.jpg_340w_340h_1e",
+                    "promotionInfo": "大聚惠",
+                    "price": "1399.00",
+                    "supplierCode": "0010002846",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "1854.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "potic":"领券中心",
+                    "sugGoodsName": "海尔(Haier) LS50M31 50英寸4K超高清 AI智能语音 16G大内存 平板液晶电视机",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/q0ZPEPw2X8B6VWsIBIkEXA.jpg",
+                    "sugGoodsCode": "000000011275014306",
+                    "promotionType": "1",
+                    "vendorId": "0000000000",
+                    "promotionId": "17195354"
+                }
+            ],
+            "author": "113906887436"
+        },
+        {
+            "contentType": "2",
+            "handwork": "rec_19-43_13_A",
+            "contentId": "7598877115",
+            "imageUrl": "http://image3.suning.cn/uimg/MFS/show/157553708174331165.jpg_0-85-710-319a",
+            "desc": "近几年对开门冰箱成为人们追求高品质生活的选择，它设计符合现代潮流，外观高端时尚大气，还能为你的家居装饰添彩，并且容量大可以分类储存各种食材，解决了令人头疼的串味问题。搭配上风冷无霜的功能，制冷速度快，保鲜效果好，还不会有结霜的烦恼。",
+            "faceUrl": "http://image1.suning.cn/uimg/MFS/show/155427641319327685.jpg_0-0-960-960a|400w_400h_2e|400w_400h_2e",
+            "title": "颜值当道，对开门冰箱显高逼格",
+            "nick": "微生活",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 9,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/vBIWX_NF7YV6wtkWnAuWFA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010860622566",
+                        "productType": 0,
+                        "text": "美的冰箱BCD-541WKPZM(E)流光咖"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/Blwnck7bPQuWZOzz9XPiTA.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000125073744",
+                        "productType": 0,
+                        "text": "西门子冰箱BCD-610W(KA92NV03TI)"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/FYz65CRdDzmXM1ieFFDg3w.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010991736272",
+                        "productType": 0,
+                        "text": "苏宁极物(JIWU)JSE4628LP 小biu对开门468L智能冰箱"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/y67uQFa3Zl8-V0eUitwTqQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000601725957",
+                        "productType": 0,
+                        "text": "美的冰箱BCD-629WKPZM(E)星际银"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/jaNEKim-HsD161XYEh2EUQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010084351883",
+                        "productType": 0,
+                        "text": "美的冰箱BCD-621WKPZM(E) 阳光米"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image4.suning.cn/uimg/MFS/show/157553700385449953.jpg_0-0-750-750a|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000147771037",
+                        "productType": 0,
+                        "text": "三星冰箱RS55KBHI0WW/SC"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/fEx4Fntfu9q2CfazvLoOGQ.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011357838827",
+                        "productType": 0,
+                        "text": "美的冰箱 BCD-630WKPZM(E) 莫兰迪灰"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/_fHUtbjEZQHZpJg_l5Ii3A.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000743995935",
+                        "productType": 0,
+                        "text": "美的冰箱BCD-525WKPZM(E)星际银"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/tzAJ9_9yi-ZRNMugMFyBvw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011059948089",
+                        "productType": 0,
+                        "text": "松下NR-W57S1-N"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/y67uQFa3Zl8-V0eUitwTqQ.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "3499.00",
+                    "supplierCode": "0010041094",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "4399.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "美的（Midea）BCD-629WKPZM(E)星际银 629升 风冷无霜 变频节能 智能操控 对开门家用大容量电冰箱",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/y67uQFa3Zl8-V0eUitwTqQ.jpg",
+                    "sugGoodsCode": "000000000601725957",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/FYz65CRdDzmXM1ieFFDg3w.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "2499.00",
+                    "supplierCode": "0010212292",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "2499.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "苏宁极物小Biu冰箱 JSE4628LP 468升对开门冰箱 变频一级能效 风冷无霜 家用电冰箱",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/oLe1oxlRa6Ukz7dvIlm8LQ.jpg",
+                    "sugGoodsCode": "000000010991736272",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image4.suning.cn/uimg/MFS/show/157553700385449953.jpg_0-0-750-750a|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "4399.00",
+                    "supplierCode": "0010113232",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "4791.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "三星RS55KBHI0WW/SC 565L升风冷无霜智能变频静音节能省电双开门大容量家用电冰箱对开门冰箱白色",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/d4vk7PonM8dHnl8MoykAVw.jpg",
+                    "sugGoodsCode": "000000000147771037",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                }
+            ],
+            "author": "112918741722"
+        },
+      {
+            "contentType": "2",
+            "handwork": "rec_19-43_13_A",
+            "contentId": "3108699562",
+            "imageUrl": "http://image4.suning.cn/uimg/MFS/show/157171663112507206.jpg_0-0-710-319a",
+            "desc": "冰箱在家中起到为食材储鲜的作用，几乎24小时坚守阵地，需要消耗不少电费，同时在运行过程中可能还会造成一定的噪音。选择一台变频冰箱，它更温柔制冷，不仅节能环保，为你节省电费，在运行过程中低噪静音，丝毫不打扰生活和睡眠。",
+            "faceUrl": "http://image3.suning.cn/uimg/MFS/show/154096894653518288.jpg_62-4-1271-1271a|400w_400h_2e",
+            "title": "变频冰箱省电静音，助攻储鲜生活",
+            "nick": "长亭君的家居Arts",
+            "contentTag": "100",
+            "displayJson": {
+                "productCnt": 8,
+                "product": [
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image3.suning.cn/uimg/MFS/show/157171603103443399.jpg_0-0-800-800a|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000147771037",
+                        "productType": 0,
+                        "text": "三星冰箱RS55KBHI0WW/SC"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/Rv_1YHKgox2ElpLeKm4HGw.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000011022832739",
+                        "productType": 0,
+                        "text": "美的冰箱BCD-446WTPZM(E)莫兰迪灰"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/V5pzXZSQxTwRjsiNWXMtvg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010991736272",
+                        "productType": 0,
+                        "text": "苏宁极物(JIWU)JSE4628LP 小biu对开门468L智能冰箱"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/GK7qj7hGdQbONaudm5Gq1Q.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000010595111086",
+                        "productType": 0,
+                        "text": "三星(SAMSUNG) RS62MAJ00FE/SC"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/WZCVrUxyftIvZHq5D6_RXg.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000602287414",
+                        "productType": 0,
+                        "text": "三星冰箱RF50MCBH0FS/SC"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image5.suning.cn/uimg/MFS/show/157171604171971765.jpg_0-0-750-750a|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000176392726",
+                        "productType": 0,
+                        "text": "三星冰箱RS55KBHI0SK/SC"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://image1.suning.cn/uimg/MFS/show/157171605488420465.jpg_0-0-800-800a|750w_750h_2e|340w_340h_1e",
+                        "productCode": "000000000155473853",
+                        "productType": 0,
+                        "text": "三星冰箱BCD-265WMTISE1"
+                    },
+                    {
+                        "componType": 4,
+                        "venderCode": "0000000000",
+                        "smallImageUrl": "http://imgservice.suning.cn/uimg1/b2c/image/qt5PVQm5uE65IYzD0oNFyw==.jpg_400w_400h_4e|340w_340h_1e",
+                        "productCode": "000000000169885975",
+                        "productType": 0,
+                        "text": "三星冰箱RS62K6000SK/SC"
+                    }
+                ]
+            },
+            "gds": [
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/GK7qj7hGdQbONaudm5Gq1Q.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "5199.00",
+                    "potic":"领券中心",
+                    "supplierCode": "0010113232",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "5499.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "三星RS62MAJ00FE/SC 638L升风冷无霜智能变频静音节能省电双开门大容量家用电冰箱对开门冰箱金色",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/eb4rqGETcDV22s9Eq_SdAg.jpg",
+                    "sugGoodsCode": "000000010595111086",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://imgservice.suning.cn/uimg1/b2c/image/V5pzXZSQxTwRjsiNWXMtvg.jpg_400w_400h_4e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "2499.00",
+                    "supplierCode": "0010212292",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "2499.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "苏宁极物小Biu冰箱 JSE4628LP 468升对开门冰箱 变频一级能效 风冷无霜 家用电冰箱",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/oLe1oxlRa6Ukz7dvIlm8LQ.jpg",
+                    "sugGoodsCode": "000000010991736272",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                },
+                {
+                    "sugGoodsPicUrl": "http://image5.suning.cn/uimg/MFS/show/157171604171971765.jpg_0-0-750-750a|750w_750h_2e|340w_340h_1e",
+                    "promotionInfo": "",
+                    "price": "4499.00",
+                    "supplierCode": "0010113232",
+                    "handwork": "rec_19-43_0_A",
+                    "refPrice": "5191.00",
+                    "productType": "1",
+                    "sugGoodsDes": "",
+                    "sugGoodsName": "三星RS55KBHI0SK/SC 565L升风冷无霜智能变频静音节能省电双开门大容量家用电冰箱对开门冰箱金色",
+                    "shopCode": "0000000000",
+                    "sugGoodsId": "",
+                    "pictureUrl": "//imgservice.suning.cn/uimg1/b2c/image/MQLod9QWRLDRsD-7Hn-thA.jpg",
+                    "sugGoodsCode": "000000000176392726",
+                    "promotionType": "",
+                    "vendorId": "0000000000",
+                    "promotionId": ""
+                }
+            ],
+            "author": "116753766921"
+        }
+    ] 
+    
+ } 
+    
+}

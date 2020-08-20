@@ -1,0 +1,104 @@
+{
+        "data": [
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/155117928298268957.png",
+                "enrollCateId": 100411,
+                "url": "actApi:HG-BQ-002",
+                "sort": 0,
+                "extInfo": {
+                    "bgImgUrl": "//imgservice.suning.cn/uimg1/b2c/image/MQLod9QWRLDRsD-7Hn-thA.jpg"
+                },
+                "enrollCateName": "精选"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/155117929720977273.png",
+                "enrollCateId": 100413,
+                "url": "",
+                "sort": 1,
+                "extInfo": {
+                    "bgImgUrl": "//image.suning.cn/uimg/MZMS/show/155117929720977273.png"
+                },
+                "enrollCateName": "家电"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/151384323374513944.png",
+                "enrollCateId": 100414,
+                "url": "",
+                "sort":2,
+                "extInfo": {
+                    "bgImgUrl": "http://image.suning.cn/uimg/MZMS/show/151384323374513944.png"
+                },
+                "enrollCateName": "酷机"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/151375579188137688.png",
+                "enrollCateId": 100416,
+                "url": "",
+                "sort": 3,
+                "extInfo": {
+                    "bgImgUrl": "http://image.suning.cn/uimg/MZMS/show/151375579188137688.png"
+                },
+                "enrollCateName": "超市"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/151375580058931338.png",
+                "enrollCateId": 100415,
+                "url": "",
+                "sort": 4,
+                "extInfo": {
+                    "bgImgUrl": "http://image.suning.cn/uimg/MZMS/show/151375580058931338.png"
+                },
+                "enrollCateName": "穿搭"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/151383933612448185.png",
+                "enrollCateId": 100420,
+                "url": "",
+                "sort": 5,
+                "extInfo": {
+                    "bgImgUrl": "http://image.suning.cn/uimg/MZMS/show/151383933612448185.png"
+                },
+                "enrollCateName": "置家"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/151375578418753424.png",
+                "enrollCateId": 100417,
+                "url": "",
+                "sort": 6,
+                "extInfo": {
+                    "bgImgUrl": "http://image.suning.cn/uimg/MZMS/show/151375578418753424.png"
+                },
+                "enrollCateName": "育儿"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/155117928912031039.png",
+                "enrollCateId": 100412,
+                "url": "",
+                "sort": 7,
+                "extInfo": {
+                    "bgImgUrl": "http://image.suning.cn/uimg/MZMS/show/155117928912031039.png"
+                },
+                "enrollCateName": "办公"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/151669485755224183.png",
+                "enrollCateId": 100421,
+                "url": "",
+                "sort": 8,
+                "extInfo": {
+                    "bgImgUrl": "http://image.suning.cn/uimg/MZMS/show/151669485755224183.png"
+                },
+                "enrollCateName": "运动"
+            },
+            {
+                "dbExtInfo": "//image.suning.cn/uimg/MZMS/show/151477707934186366.png",
+                "enrollCateId": 100418,
+                "url": "",
+                "sort": 9,
+                "extInfo": {
+                    "bgImgUrl": "http://image.suning.cn/uimg/MZMS/show/151477707934186366.png"
+                },
+                "enrollCateName": "出行"
+            }
+        ]
+}

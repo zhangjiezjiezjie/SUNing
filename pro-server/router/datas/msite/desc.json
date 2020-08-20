@@ -1,0 +1,122 @@
+{
+    "sugGoods": [
+        {
+            "resCode": "01",
+            "sceneId": "12-62",
+            "parameter": "",
+            "cityId": "010",
+            "skus": [
+                {
+                    "contentId": "1025408542",
+                    "imageUrl": "http://image.suning.cn/uimg/MZMS/show/157715604772362634.jpg_270-0-1200-1200a",
+                    "title": "K30配备4500mAh电池，30W快充闪电回血",
+                    "label": "热门",
+                    "handwork": "0_12-62_0_A"
+                },
+                {
+                    "contentId": "9586321254",
+                    "imageUrl": "http://image2.suning.cn/uimg/MFS/show/157594072848818814.jpg_0-0-750-750a",
+                    "title": "加持颜值光环的性能实力派电脑，让人无法拒绝",
+                    "label": "热门",
+                    "handwork": "0_12-62_0_A"
+                },
+                {
+                    "contentId": "4279417323",
+                    "imageUrl": "http://image5.suning.cn/uimg/MFS/show/157556049736052567.jpg_172-0-1080-1080a",
+                    "title": "华为nova 6来了！这款定位自拍的5G手机不简单",
+                    "label": "热门",
+                    "handwork": "0_12-62_0_A"
+                },
+                {
+                    "contentId": "2462221137",
+                    "imageUrl": "http://image5.suning.cn/uimg/MFS/show/157594024894655475.jpg_0-0-750-750a",
+                    "title": "轻薄本应当怎么挑？性能好才是真的好",
+                    "label": "热门",
+                    "handwork": "0_12-62_0_A"
+                },
+                {
+                    "contentId": "3091794976",
+                    "imageUrl": "http://image4.suning.cn/uimg/MFS/show/157588535738260663.jpg_0-0-750-750a",
+                    "title": "vivo U3偶遇骁龙八核处理器，游戏小霸王来袭",
+                    "label": "热门",
+                    "handwork": "0_12-62_0_A"
+                },
+                {
+                    "contentId": "8507330374",
+                    "imageUrl": "http://image5.suning.cn/uimg/MFS/show/157593912230235481.jpg_0-0-750-750a",
+                    "title": "这些性能颜值都有料的轻薄本，正是现代职业女性首选",
+                    "label": "热门",
+                    "handwork": "0_12-62_0_A"
+                }
+            ]
+        },
+        {
+            "panic":[
+                {
+                    "title":"限时抢购",
+                    "name":"潮流好物限时抢",
+                    "picurl1":"//image1.suning.cn/uimg/nmps/MBLSPZT/10040341511262010131picH_1_370x370.jpg",
+                    "picurl2":"//imgservice.suning.cn/uimg1/b2c/image/I3aW_i4dmw6HgHXjHbxp5g.jpg?format=_is_400w_400h",
+                    "price1":"￥8.9",
+                    "price2":"￥4.7"
+                },
+                {
+                    "title":"大聚惠",
+                    "name":"好货一元秒",
+                    "picurl1":"//imgservice.suning.cn/uimg1/b2c/image/unv5jp09erPwambSaWQ5Sw.jpg?from=mobile",
+                    "picurl2":"//imgservice.suning.cn/uimg1/b2c/image/TPbFgrBAbBI8ex-5zqBrrQ.jpg?from=mobile",
+                    "price1":"戴尔(dell)",
+                    "price2":"机械师"
+                },
+                {
+                    "title":"百亿补贴",
+                    "name":"抢超值好货",
+                    "picurl1":"https://image3.suning.cn/uimg/cms/img/157744894237044574.jpg?format=_is_200w_200h.webp",
+                    "picurl2":"https://image2.suning.cn/uimg/cms/img/157744892800879257.jpg?format=_is_200w_200h.webp",
+                    "price1":"1箱29.9",
+                    "price2":"满减直降"
+                },
+                {
+                    "title":"苏宁拼购",
+                    "name":"2人拼更实惠 全场包邮",
+                    "picurl1":"//imgservice.suning.cn/uimg1/b2c/image/4qC-_4HWZ1f46dadNERzxg.png?from=mobile",
+                    "picurl2":"//imgservice.suning.cn/uimg1/b2c/image/veGnIm_DVdh52Z7HDmlNaw.jpg?from=mobile",
+                    "price1":"2人拼189",
+                    "price2":"2人拼339"
+                }
+            ]
+        },
+        {
+            "Lists":[
+                {
+                    "title":"人气轻薄本榜",
+                    "listName":"趋势榜",
+                    "name":"本周趋势上升48%",
+                    "picurl1":"//imgservice.suning.cn/uimg1/sniss/improve/n9yKnPmTyRJ6Ox9sPbkduQ.jpg?format=_is_200w_200h_4e.webp",
+                    "picurl2":"//imgservice.suning.cn/uimg1/sniss/improve/PFSE-nuBz8RK_Uo3IIYbLw.jpg?format=_is_200w_200h_4e.webp"
+                },
+                {
+                    "title":"潮流女上衣榜",
+                    "listName":"趋势榜",
+                    "name":"本周趋势上升130%",
+                    "picurl1":"https://image.suning.cn/uimg/b2c/qrqm/0070298976000000010705491000.jpg?format=_is_200w_200h_4e.webp",
+                    "picurl2":"https://image.suning.cn/uimg/b2c/qrqm/0070088010000000010674079985.jpg?format=_is_200w_200h_4e.webp"
+                },
+                {
+                    "title":"畅销家用空调榜",
+                    "listName":"人气榜",
+                    "name":"卖爆1372件",
+                    "picurl1":"//imgservice.suning.cn/uimg1/sniss/improve/09htG1mA_gay8zJ2f5Krpg.jpg?format=_is_200w_200h_4e.webp",
+                    "picurl2":"https://image.suning.cn/uimg/b2c/qrqm/0000000000000000000125969047.jpg?format=_is_200w_200h_4e.webp"
+                },
+                {
+                    "title":"营养滋补榜",
+                    "listName":"人气榜",
+                    "name":"卖爆2.5万件",
+                    "picurl1":"https://image.suning.cn/uimg/b2c/qrqm/0000000000000000010642485964.jpg?format=_is_200w_200h_4e.webp",
+                    "picurl2":"//imgservice.suning.cn/uimg1/sniss/improve/w30k6qyI7h2WdJrXdFoMDQ.jpg?format=_is_200w_200h_4e.webp"
+                }
+            ]
+        }
+    ]
+}

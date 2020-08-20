@@ -1,0 +1,16 @@
+{
+	"name": "pro-server",
+	"version": "1.0.0",
+	"dependence": {},
+	"devDependencies": {
+		"jsonwebtoken": "^8.5.1"
+	},
+	"dependencies": {
+		"blueimp-md5": "^2.12.0",
+		"express": "^4.17.1",
+		"js-base64": "^2.5.1",
+		"md5": "^2.2.1",
+		"moment": "^2.24.0",
+		"request": "^2.88.0"
+	}
+}
